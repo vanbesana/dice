@@ -10,17 +10,19 @@
 
 }
 
-body {
-  background-color: #393E46;
-}
-
-h1 {
+.refresh {
   margin: 30px;
   font-family: 'Lobster', cursive;
   text-shadow: 5px 0 #232931;
   font-size: 8rem;
   color: #4ECCA3;
 }
+
+body {
+  background-color: #393E46;
+}
+
+
 
 p {
   font-size: 2rem;
